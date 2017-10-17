@@ -1,0 +1,17 @@
+﻿body {
+    background-color: lightblue;
+}
+
+ul li::first-letter{
+    font-size: 30px;
+}
+    
+.sonnetText{
+    font-family: Arial;
+    text-align: center;
+    list-style-type: none; 
+}
+
+p{
+    font-family: Arial;
+}

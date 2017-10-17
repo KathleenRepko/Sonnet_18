@@ -1,2 +1,12 @@
 ﻿body {
+    background-color: darkblue;
+    font-family: Arial;
+}
+
+.sonnetText {
+    text-align: center;
+}
+
+.copyright{
+    font-style: italic;
 }
